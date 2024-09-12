@@ -1,7 +1,4 @@
-A Boiler plate for REST API using node mongoose express
-
-## Usage
-    $ npm install
-    $ cp .env.example .env
-    $ npm start
-
+## How to use
+<p>npm install</p>
+<p>cp .env.example .env</p>
+<p>npm start</p>
